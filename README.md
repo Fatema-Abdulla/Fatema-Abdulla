@@ -62,7 +62,7 @@ Equalsy  | [Equalsy](https://github.com/Fatema-Abdulla/Equalsy) |  Interactive c
   <img
     width="35px"
     alt="programmer icon"
-    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGF1M2hla2dwbmpiajluaDNicjVjZ25qdGlzb3g5ZnMxcjVlYnpwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0UFP88Dy4l2c63bFmC/giphy.gif"
+    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTBtNGx1cDdqOG9rcnc5bGl0NGh0ZnZ3Y3Z3OW9vY3dwZDJhbG45eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XbUYavAT2FArKDQsbu/giphy.gif"
   /> Socials
 </h2>
 <div>
