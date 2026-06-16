@@ -8,10 +8,8 @@
   />
 </h1>
 
+#### Information Systems graduate from the University of Bahrain with a passion for full-stack web development and UX-focused digital experiences. Completed a Software Engineering Bootcamp at General Assembly, gaining hands-on experience in modern frontend and backend technologies, alongside WordPress e-commerce development.
 
-<p style="text-align: justify; font-size: 19px;" >
-    Information Systems graduate from the University of Bahrain with a passion for full-stack web development and UX-focused digital experiences. Completed a Software Engineering Bootcamp at General Assembly, gaining hands-on experience in modern frontend and backend technologies, alongside WordPress e-commerce development.
-</p>
 <br>
 
 <!-- Languages and Tools -->
